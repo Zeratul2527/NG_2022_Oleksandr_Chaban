@@ -6,5 +6,3 @@ Minutes = Seconds // 60
 Seconds %= 60
 Days = Seconds % 86400
 print ("Days:",Days,"Hours:",Hour,"Minutes:",Minutes,"Seconds:",Seconds);
-"Days:",Days
-"Minutes:",Minutes
